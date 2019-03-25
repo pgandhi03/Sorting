@@ -24,7 +24,7 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 BubbleSort ob = new BubbleSort();
-	        int arr[] = {64, 46, 25, 18, 22, 11, 90};
+	        int arr[] = {64, 466, 25, 18, 22, 11, 90};
 	        ob.bubbleSort(arr);
 	        System.out.println("Sorted array");
 	        ob.printArray(arr);
